@@ -118,9 +118,9 @@ public class OthelloAI22 implements IOthelloAI {
         return e.evaluate();
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         OthelloAI22 a = new OthelloAI22();
         GameState s = new GameState(6, 1);
         a.decideMove(s);
-    }
+    }*/
 }
