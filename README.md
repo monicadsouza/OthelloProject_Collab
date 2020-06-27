@@ -1,7 +1,7 @@
 # Project: Othello Game
 
 This repository contains the source code for Group 22's implementation
-of the Othello Game project in the Intelligent Systems Program course.
+of the Othello Game project in the Intelligent Systems Programming course.
 
 ## Getting Started
 
