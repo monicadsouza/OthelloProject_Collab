@@ -6,7 +6,7 @@ of the Othello Game project in the Intelligent Systems Programming course.
 ## Getting Started
 
 The Othello.java is the main class that parses command line parameters and initializes the Othello game.
-To run the game you can for example type "java Othello OthelloAI22 DumAi 6" in the terminal or go the the Othello class documentation
+To run the game you can for example type 'java Othello OthelloAI22 DumAi 6' in the terminal or go the the Othello class documentation
 for the details.
 
 The above commands set our group's implementation to play against the dumb AI implementation gave to us by the teacher, you can also try to play against our AI
